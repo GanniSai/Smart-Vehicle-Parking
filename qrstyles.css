@@ -1,0 +1,54 @@
+.card
+{
+ width:30vw;
+margin-top:10%;
+  margin-left:36%;
+}
+
+.card-body
+{
+border:1px solid white;
+border-radius:20px;
+}
+
+#background-image
+{
+height:100vh;
+background-color:#BFCCB5;    
+}
+
+#t,#demo,#kio
+{
+ width:195px;
+  
+}
+
+
+
+
+input
+
+{
+  color: darkcyan;
+}
+
+#kio
+{
+background-color:#6D5D6E;
+ color:white;
+  border:1px solid #6D5D6E;
+  border-radius:5px;
+  padding:5px;
+}
+
+@media only screen and (max-width:900px)
+{
+.card
+  {
+width:90vw;
+    margin-left:16px;
+    margin-top:90px;
+   
+  }
+
+}
